@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+#h{
+	color:white;
+	text-align:center;
+}
+#head{
+	background-color:#011e29;
+}
+.class{
+	background-color:white;
+	display:inline;
+	box-model:scale;
+}
+#ist{
+	float:left;
+}
+#snd{
+	float:center;
+}
+#trd{
+	float:right;
+}
