@@ -1,22 +1,28 @@
 /*  your css code here. If applicable */
-#h{
-	color:white;
-	text-align:center;
+.container{
+	display:flex;
+	justify-content:space-evenly;
+	align-item:center;
+
 }
-#head{
-	background-color:#011e29;
-}
-.class{
+#i{ 
+	border-radius:10px;
 	background-color:white;
-	display:inline;
-	box-model:scale;
 }
-#ist{
-	float:left;
+#ii{
+	border-radius:10px;
+	background-color:white;
 }
-#snd{
-	float:center;
+#iii{
+	display:flex;
+	flex-direction:column;
+	border-radius:10px;
+	background-color:white;
+	text-align:center;
+	justify-content:space-between;
 }
-#trd{
-	float:right;
+.head{
+	background-color: #011e29;
+	height:40px;
+	text-align:center
 }
