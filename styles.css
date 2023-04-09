@@ -8,10 +8,14 @@
 #i{ 
 	border-radius:10px;
 	background-color:white;
+	width:31%;
+	height:auto;
 }
 #ii{
 	border-radius:10px;
 	background-color:white;
+	width:31%;
+	padding:2px;
 }
 #iii{
 	display:flex;
@@ -20,9 +24,13 @@
 	background-color:white;
 	text-align:center;
 	justify-content:space-between;
+	width:31%;
+	padding:2px;
 }
-.head{
+
+.header{
 	background-color: #011e29;
 	height:40px;
-	text-align:center
+	text-align:center;
+	padding:.0px;
 }
