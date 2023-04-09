@@ -3,19 +3,22 @@
 	display:flex;
 	justify-content:space-evenly;
 	align-item:center;
-
+    padding:5px;
 }
 #i{ 
 	border-radius:10px;
 	background-color:white;
 	width:31%;
-	height:auto;
+	height:20%;
+	text-align:center;
 }
 #ii{
 	border-radius:10px;
 	background-color:white;
 	width:31%;
 	padding:2px;
+	text-align:center;
+	height:20%;
 }
 #iii{
 	display:flex;
@@ -27,10 +30,15 @@
 	width:31%;
 	padding:2px;
 }
-
+#iii img{
+	padding:2px;
+	border-radius:10px;
+	margin:10px;
+}
 .header{
 	background-color: #011e29;
 	height:40px;
 	text-align:center;
-	padding:.0px;
+	padding:0px;
+	color:white;
 }
